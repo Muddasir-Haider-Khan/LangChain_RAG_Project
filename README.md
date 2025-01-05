@@ -19,11 +19,12 @@ This project demonstrates the use of LangChain for building applications powered
 
 ## Usage
 
-1. Open the notebook in Jupyter:```
+1. Open the notebook in Jupyter:
+2. ```
    jupyter notebook LangChain_RAG_Project.ipynb
    
    ```
-2. Follow the step-by-step instructions in the notebook to:- Set up the language model and API keys.
+3. Follow the step-by-step instructions in the notebook to:- Set up the language model and API keys.
    - Upload and process text documents.
    - Define a retrieval QA chain.
    - Execute the cells to see the RAG system in action.
